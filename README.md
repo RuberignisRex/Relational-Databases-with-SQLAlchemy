@@ -1,9 +1,9 @@
 # Relational-Databases-with-SQLAlchemy
 
 ## Usage Instructions
-Create and activate a virtual environment
-install SQLAlchemy and MySQL Connector
-Run RD_REST_API_Dev.py within this virtual environment
+* Create and activate a virtual environment
+* install SQLAlchemy and MySQL Connector
+* Run RD_REST_API_Dev.py within this virtual environment
 
 ## Expected Result
 * The code will initialize an SQL database called shop.db
